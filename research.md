@@ -1,5 +1,3 @@
-- [Back to Home](README.md)
-  
 # Research interests
 
 Below is a brief and non-exhaustive review of my current research interests.
