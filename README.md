@@ -1,11 +1,9 @@
-# About me
-
-Hi!
-
-I'm a PhD candidate at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. 
+# Hi there
 
 - [Home](README.md)
 - [About Me](about.md)
+
+I'm a PhD candidate at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. 
 
 ## Publications
 
