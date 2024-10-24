@@ -1,6 +1,7 @@
 # Hi there!
 
-- [About Me](about.md)
+I'm a PhD candidate at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany.
+
 - [Research and fieldwork](research.md)
 - [Dataviz and maps](dataviz.md)
 
