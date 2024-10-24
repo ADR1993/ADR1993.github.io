@@ -33,5 +33,6 @@ We hope that the analysis on data collected in small-scale communities in Benin 
 
 The search for quick and efficient ways to collect data from a relatively large number of interviews led me and colleagues to develop a simple name-generator method to acquire recall-based network data in the field. 
 
+![network](assets/network.png)
 
 - [Home](README.md)
