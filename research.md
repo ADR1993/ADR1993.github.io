@@ -18,7 +18,7 @@ At the same time, twinning is also highly culturally salient in several societie
 
 ![Twinship in Benin](assets/twinship.png)
 
-We (me and my supervisors) hypothesized that a dynamic of gene-culture co-evolution might explain the high incidence of twin births in parts of Sub-Saharan Africa. Cultural strategies such as geminophilia (a support system to twins masked as a set of supernatural beliefs and practices) and geminophobia (the possibility of disposing of one twin to allocate parental resources to the other) might have emerged to deal with the adaptive problem posed by twin births, and could have been able to "subsidize" higher frequencies of the alleles underlying polyovulation. We presented the (verbal) argument [here](https://ecoevorxiv.org/repository/view/6254/), and are currently working on developing a formal model of the co-evolutionary dynamic.
+We (me and my supervisors) hypothesize that a dynamic of gene-culture co-evolution might explain the high incidence of twin births in parts of Sub-Saharan Africa. Cultural strategies such as geminophilia (a support system to twins masked as a set of supernatural beliefs and practices) and geminophobia (the possibility of disposing of one twin to allocate parental resources to the other) might have emerged to deal with the adaptive problem posed by twin births, and could have been able to "subsidize" higher frequencies of the alleles underlying polyovulation. We presented the (verbal) argument [here](https://ecoevorxiv.org/repository/view/6254/), and are currently working on developing a formal model of the co-evolutionary dynamic.
 
 ## Fertility norms, social networks, and demographic transition
 
