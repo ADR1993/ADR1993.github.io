@@ -10,7 +10,7 @@ During the course of my doctorate I set up a data collection project in two vill
 
 ## Twinship
 
-Dizygotic (DZ) twinning rates display a large between-population variation, with the highest incidence found in West and Central Africa. Given the multi-factorial etiology of DZ twin births, there is not likely one single explanation for the persistence of such an appreciable variation. However, DZ twinning is known to be genetically heritable, with consequences that are sometimes [very evident at the population level](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020328). 
+Dizygotic (DZ) twinning rates display a large between-population variation, with the highest incidence found in West and Central Africa. Given the multi-factorial etiology of DZ twin births, it's unlikely that a single cause may explain such an appreciable variation. However, DZ twinning is known to be genetically heritable, with consequences that are sometimes [very evident at the population level](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020328). 
 
 The continued existence of twinning is a bit of an evolutionary puzzle in itself. Given its significant biological costs, which would lead us to expect that natural selection would remove genotypes conducive to higher propensity to give birth to twins. According to the most established hypothesis, twinning might be maintained in the population because of natural selection favours some levels of polyovulation to offset embryo/foetal mortality, of which twinning is a "harmful" side effect.
 
