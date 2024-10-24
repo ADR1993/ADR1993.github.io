@@ -4,6 +4,11 @@ Hi!
 
 I'm a PhD candidate at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. 
 
+- [Home](README.md)
+- [About Me](about.md)
+- [Fieldwork](fieldwork.md)
+- [Data Visualization](data-visualization.md)
+
 ## Publications
 
 - Redhead, D., **Dalla Ragione, A.**, & Ross, C. T. (2022). Friendship and partner choice in rural Colombia. *Evolution and Human Behavior*. [https://doi.org/10.1016/j.evolhumbehav.2022.08.004](https://doi.org/10.1016/j.evolhumbehav.2022.08.004)
