@@ -14,6 +14,8 @@ The continued existence of twinning is a bit of an evolutionary puzzle in itself
 
 At the same time, twinning is also highly culturally salient in several societies in this "high-twinning" region of Sub-Saharan Africa, where the birth of twins may have both positive (*geminophilous*) and negative valence (*geminophobic*), depending on the group. Geminophilous groups assign a special status to twins, attributing them the ability to bestow wealth and good luck over their family and increasing the prestige of their parents. Geminophobic groups, on the other hand, used to shun and ostracize twins, sometimes to the point of allowing the infanticide of one of them, or both.
 
+![Twinship in Benin](assets/twinship.png)
+
 We (me and my supervisors) hypothesized that a dynamic of gene-culture co-evolution might explain the high incidence of twin births in parts of Sub-Saharan Africa. Cultural strategies such as geminophilia (a support system to twins masked as a set of supernatural beliefs and practices) and geminophobia (the possibility of disposing of one twin to allocate parental resources to the other) might have emerged to deal with the adaptive problem posed by twin births, and could have been able to "subsidize" higher frequencies of the alleles underlying polyovulation. We presented the (verbal) argument [here](https://ecoevorxiv.org/repository/view/6254/), and are currently working on developing a formal model of the co-evolutionary dynamic.
 
 ## Demographic transition
