@@ -6,8 +6,6 @@ I'm a PhD candidate at the Max Planck Institute for Evolutionary Anthropology in
 
 - [Home](README.md)
 - [About Me](about.md)
-- [Fieldwork](fieldwork.md)
-- [Data Visualization](data-visualization.md)
 
 ## Publications
 
