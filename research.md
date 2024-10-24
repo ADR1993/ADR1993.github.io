@@ -22,7 +22,7 @@ We (me and my supervisors) hypothesized that a dynamic of gene-culture co-evolut
 
 ## Demographic transition
 
-
+## Network data collection
 
 
 
