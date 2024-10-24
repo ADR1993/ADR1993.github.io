@@ -1,6 +1,5 @@
 # Hi there!
 
-- [Home](README.md)
 - [About Me](about.md)
 - [Dataviz and maps](dataviz.md)
 
