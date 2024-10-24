@@ -6,6 +6,8 @@ Here is a brief review of my current research interests.
 
 During the course of my doctorate I set up a data collection project in two villages in Benin, West Africa. The collected data include information on basic demography, anthropometric measurements, reproductive and marital histories, kinship, household wealth and assets, personal income and economic activities, education and linguistic skills, health and well-being, cultural beliefs and social norms about fertility and twinship, social networks, as well as data on behavior in RICH networked economic games. I am currrently in the process of developing a database to organize the information collected in the field.
 
+![Benin](assets/benin_beach.png)
+
 ## Twinship
 
 Dizygotic (DZ) twinning rates display a large between-population variation, with the highest incidence found in West and Central Africa. Given the multi-factorial etiology of DZ twin births, there is not likely one single explanation for the persistence of such an appreciable variation. However, DZ twinning is known to be genetically heritable, with consequences that are sometimes [very evident at the population level](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020328). 
