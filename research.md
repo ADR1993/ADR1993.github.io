@@ -20,7 +20,7 @@ At the same time, twinning is also highly culturally salient in several societie
 
 We (me and my supervisors) hypothesized that a dynamic of gene-culture co-evolution might explain the high incidence of twin births in parts of Sub-Saharan Africa. Cultural strategies such as geminophilia (a support system to twins masked as a set of supernatural beliefs and practices) and geminophobia (the possibility of disposing of one twin to allocate parental resources to the other) might have emerged to deal with the adaptive problem posed by twin births, and could have been able to "subsidize" higher frequencies of the alleles underlying polyovulation. We presented the (verbal) argument [here](https://ecoevorxiv.org/repository/view/6254/), and are currently working on developing a formal model of the co-evolutionary dynamic.
 
-## Demographic transition
+## Fertility norms, social networks, and demographic transition
 
 Demographic transition / fertility decline is an enduringly popular topic of research for demographers, economists, anthropologists, and social scientists, regardless of whether it is looked at through an evolutionary lens or not. 
 Among the countless theorized mechanisms that can trigger declines in fertility, a cultural evolutionary explanation focuses on the spread of fertility norms through networks, and the changes that economic modernization apparently brought on individual's social networks. 
@@ -31,7 +31,7 @@ We hope that the analysis on data collected in small-scale communities in Benin 
 
 ## Network data collection
 
-
+The search for quick and efficient ways to collect data from a relatively large number of interviews led me and colleagues to develop a simple name-generator method to acquire recall-based network data in the field. 
 
 
 - [Home](README.md)
