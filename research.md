@@ -1,3 +1,5 @@
+- [Back to Home](README.md)
+  
 # Research interests
 
 Below is a brief and non-exhaustive review of my current research interests.
@@ -41,4 +43,4 @@ The preprint for the method can be found [here](https://osf.io/preprints/socarxi
 
 ![network](assets/network.png)
 
-- [Home](README.md)
+- [Back to Home](README.md)
