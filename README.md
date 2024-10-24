@@ -2,7 +2,7 @@
 
 I'm a PhD candidate at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany.
 Here you can read something about my [current research interests and fieldwork](research.md), or see some of my [data visualizations and maps](dataviz.md). 
-If you want to contact me, [email me](mailto:augusto_dalla_ragione@eva.mpg.de)!
+If you want to contact me, [here's my email](mailto:augusto_dalla_ragione@eva.mpg.de).
 
 ## Publications
 
