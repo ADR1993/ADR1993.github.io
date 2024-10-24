@@ -2,6 +2,7 @@
 
 - [Home](README.md)
 - [About Me](about.md)
+- [Dataviz and maps](dataviz.md)
 
 I'm a PhD candidate at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. 
 
