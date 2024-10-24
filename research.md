@@ -27,11 +27,16 @@ Among the countless theorized mechanisms that can trigger declines in fertility,
 Higher residential mobility through times of modernization arguably reduced the density of kin in one's network. 
 If fertility norms and preferences do spread through communication networks, and relatives are more likely to transmit high-fertility norms to each other than to non-kin (as they have a vested fitness interest in their kin's reproductive success), we might observe declines in preferences for larger families as the density of kin in people's social networks declines.
 This suggests that the effect of kin reduction on fertility may extend *beyond* the loss of family support and childcare—it may also influence underlying fertility preferences through the transmission of cultural norms.
-We hope that the analysis on data collected in small-scale communities in Benin might shed light on how fertility preferences and realized fertility might be affected by the structure of individuals' social networks.
+Hopefully, the analysis of the data collected in small-scale communities in Benin might shed light on how fertility preferences and realized fertility might be affected by the structure of individuals' social networks.
 
 ## Network data collection
 
-The search for quick and efficient ways to collect data from a relatively large number of interviews led me and colleagues to develop a simple name-generator method to acquire recall-based network data in the field. 
+The search for quick and efficient ways to collect data from a relatively large number of interviews led me and colleagues to develop a simple KoboCollect-based name-generator method to acquire recall-based sociocentric network data.
+Recall-based methods of data collection rely on the respondent to nominate alter with whom they have social ties (e.g., who are you friend with?). 
+These methods may require significant post-processing effort, however, since nominations have to be carefully cross-checked to resolve alters' identities, which can take lots of time and is an inherently error-prone process.
+Our protocol is based on a photograph roster of the entire community/sample which is used for immediate identity confirmation from the respondent themselves.
+For example, if an individual says they are friends with John Smith, the interviewer can do a name search and retrieve the photographs associated with the name "John Smith" in the KoboCollect app, and asking the respondent to confirm the nomination by looking at the photograph.
+An R package, `XLSFormulatoR`, which automates the creation of network questionnaires is also provided, to facilitate researchers who may not want to waste too much time on the frustrating syntax of XLSForm (the language in which KoboCollect questionnaires are written).
 
 ![network](assets/network.png)
 
