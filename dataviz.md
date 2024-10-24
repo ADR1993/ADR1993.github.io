@@ -8,6 +8,6 @@ I sometimes create data visualizations and maps as a hobby. You can find some of
 
 ## Heating degree days in the European Union
 
-![data](assets/heating_map.png)
+![data](assets/heating_map.jpg)
 
 - [Home](README.md)
