@@ -6,4 +6,8 @@ I sometimes create data visualizations and maps as a hobby. You can find some of
 
 ![data](assets/100m_dash.png)
 
+## Heating degree days in the European Union
+
+![data](assets/heating_map.png)
+
 - [Home](README.md)
