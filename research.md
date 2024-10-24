@@ -4,7 +4,7 @@ Here is a brief review of my current research interests.
 
 ## Fieldwork in Benin
 
-During the course of my doctorate I set up a data collection project in two villages in Benin, West Africa. The collected data include information on basic demography, anthropometric measurements, reproductive and marital histories, kinship, household wealth and assets, personal income and economic activities, education and linguistic skills, health and well-being, cultural beliefs and social norms about fertility and twinship, social networks, as well as data on behavior in RICH networked economic games. I am currrently in the process of developing a database to store such information. 
+During the course of my doctorate I set up a data collection project in two villages in Benin, West Africa. The collected data include information on basic demography, anthropometric measurements, reproductive and marital histories, kinship, household wealth and assets, personal income and economic activities, education and linguistic skills, health and well-being, cultural beliefs and social norms about fertility and twinship, social networks, as well as data on behavior in RICH networked economic games. I am currrently in the process of developing a database to organize the information collected in the field.
 
 ## Twinship
 
