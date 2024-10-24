@@ -4,4 +4,4 @@ title: About Me
 
 # About Me
 
-Welcome to the About Me page! Here's some information about me...
+I'm a PhD candidate at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. 
