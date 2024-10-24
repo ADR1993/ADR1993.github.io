@@ -1,6 +1,6 @@
 # Research interests
 
-Here is a brief review of my current research interests.
+Below is a brief and non-exhaustive review of my current research interests.
 
 ## Fieldwork in Benin
 
