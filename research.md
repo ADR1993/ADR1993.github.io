@@ -22,6 +22,8 @@ We (me and my supervisors) hypothesized that a dynamic of gene-culture co-evolut
 
 ## Demographic transition
 
+Demographic transition / fertility decline is an enduringly popular topic of research for demographers, economists, anthropologists, and social scientists, regardless of whether it is looked at through an evolutionary lens or not. A cultural evolutionary explanation of fertility declines focuses on the spread of fertility norms through networks, and the changes that economic modernization apparently brought on individual's social networks. Higher residential mobility through times of modernization arguably reduced the density of kin in one's network. If fertility norms and preferences can spread through communication networks, and relatives are more likely to transmit pro-natalist norms, we might observe declines in preferences for larger families as the presence of kin in people's social networks decline, such that the reduction in kin might impact fertility *beyond* the simple reduction in family support and childcare caused by the absence of kin. 
+
 ## Network data collection
 
 
