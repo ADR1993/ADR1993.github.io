@@ -4,10 +4,10 @@ I sometimes create data visualizations and maps as a hobby. You can find some of
 
 ## Top performances in 100-dash men over time
 
-![data](assets/100m_dash.png)
+![100m performances](assets/100m_dash.png)
 
 ## Heating degree days in the European Union
 
-![data](assets/heating_map.jpg)
+![Heating degree days](assets/heating_map.jpg)
 
 - [Home](README.md)
