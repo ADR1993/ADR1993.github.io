@@ -1,6 +1,7 @@
 # Hi there!
 
 - [About Me](about.md)
+- [Research and fieldwork](research.md)
 - [Dataviz and maps](dataviz.md)
 
 ## Publications
