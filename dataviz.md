@@ -13,7 +13,7 @@ On the upper right, a view of Piazza San Marco in Venezia, by Canaletto (1723; C
 
 ## Top performances in 100-dash men over time
 
-A scatterplot to highlight Jamaica's (and Bolt's) domination of sprinting in the past 20 years, inspired by the Paris Olympics. Data scraped from World Athletics. 
+A scatterplot to highlight Jamaica's (and Bolt's) domination of sprinting, inspired by the Paris Olympics. Data scraped from World Athletics. Beyond Jamaican exceptionalism, it is interesting to note how top sprinting performances appear to have stalled, with little to no improvement in the past 15 years.
 
 ![100m performances](assets/100m_dash.png)
 
