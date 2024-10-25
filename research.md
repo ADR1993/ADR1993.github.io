@@ -38,7 +38,7 @@ Recall-based methods of data collection rely on the respondent to nominate alter
 These methods may require significant post-processing effort, however, since nominations have to be carefully cross-checked to resolve alters' identities, which can take lots of time and is an inherently error-prone process.
 Our protocol is based on a photograph roster of the entire community/sample which is used for immediate identity confirmation from the respondent themselves.
 For example, if an individual says they are friends with Giuseppe Garibaldi, the interviewer can do a name search and retrieve the photographs associated with the name "Giuseppe Garibaldi" in the KoboCollect app, and ask the respondent to confirm the nomination by looking at the photograph.
-An R package, [`XLSFormulatoR`](https://github.com/ADR1993/XLSFormulatoR), which automates the creation of network questionnaires is also presented, to facilitate researchers who may not want to waste too much time on the frustrating XLSForm syntax (the language in which KoboCollect questionnaires are written).
+An R package, [`XLSFormulatoR`](https://github.com/ADR1993/XLSFormulatoR), which automates the creation of network questionnaires is also presented, to facilitate researchers who may not want to devote too much time on the frustrating XLSForm syntax (the language in which KoboCollect questionnaires are written).
 The preprint that presents the method can be found [here](https://osf.io/preprints/socarxiv/gna3d).
 
 ![network](assets/network.png)
