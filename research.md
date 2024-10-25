@@ -29,7 +29,7 @@ Among the countless theorized mechanisms that can trigger declines in fertility,
 Higher residential mobility through times of modernization arguably reduced the density of kin in one's network. 
 If fertility norms and preferences do spread through communication networks, and relatives are more likely to transmit high-fertility norms to each other than to non-kin (as they have a vested fitness interest in their kin's reproductive success), we might observe declines in preferences for larger families as the density of kin in people's social networks declines.
 This suggests that the effect of kin reduction on fertility may extend *beyond* the loss of family support and childcare—it may also influence underlying fertility preferences through the transmission of cultural norms.
-Hopefully, the analysis of the data collected in small-scale communities in Benin might help to shed light on how fertility preferences and realized fertility might be affected by the structure of individuals' social networks.
+Hopefully, the analysis of the data collected in small-scale communities in Benin might help to shed light on how fertility preferences might be affected by the structure of individuals' social networks.
 
 ## Network data collection
 
