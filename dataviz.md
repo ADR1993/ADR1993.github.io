@@ -4,7 +4,7 @@ I sometimes create data visualizations and maps as a hobby. You can find some of
 
 ## Lucca and Venezia
 
-Lucca definitely doesn't come to mind when people think about cities that might look similar to Venezia. It actually is quite similar, though, in the way the labyrinthic structure of narrow and sometimes suffocating medieval streets abruptly eases into wide, open squares, without warning the wanderer. This painting/map collage is intended as a tribute to this approach of playing with space and its expectations.
+If you think about cities that might resemble Venice, chances are you aren't thinking about Lucca. It actually is quite similar, though, in the way the labyrinthic structure of narrow and sometimes suffocating medieval streets abruptly eases into wide, open squares, without warning the wanderer. This painting/map collage is intended as a tribute to this approach of playing with space and its expectations.
 
 On the bottom left, a view of Piazza San Martino in Lucca, by Bernardo Bellotto (1740).
 On the upper right, a view of Piazza San Marco in Venezia, by Canaletto (1723; Canaletto who was actually Bellotto's uncle!).
