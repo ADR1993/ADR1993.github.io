@@ -3,6 +3,10 @@
 I'm a PhD candidate at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany.
 Here you can read something about my [current research interests and fieldwork](research.md), see some of my [data visualizations and maps](dataviz.md), or download [my CV](https://github.com/ADR1993/ADR1993.github.io/blob/main/assets/DallaRagione_CV.pdf). If you want to contact me, [here's my email](mailto:augusto_dalla_ragione@eva.mpg.de).
 
+## About me
+
+Born and bred in a hill town in Tuscany, I got my Bachelor's degree in History from the university of Florence in 2018 with a bibliographic thesis on the [Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence). I then moved to Moscow, where I earned a Master's in Population and Development from the Higher School of Economics in 2020.
+
 ## Publications
 
 - Redhead, D., **Dalla Ragione, A.**, & Ross, C. T. (2022). Friendship and partner choice in rural Colombia. *Evolution and Human Behavior*. [https://doi.org/10.1016/j.evolhumbehav.2022.08.004](https://doi.org/10.1016/j.evolhumbehav.2022.08.004)
